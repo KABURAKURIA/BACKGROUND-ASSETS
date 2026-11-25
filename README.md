@@ -1,13 +1,10 @@
-# 🎵 Multimedia & Ambient Audio Assets Library
-
-[![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Audio Format](https://img.shields.io/badge/Audio-MP3%20320kbps-blue.svg)](https://github.com/KABURAKURIA/BACKGROUND-ASSETS)
+# Multimedia & Ambient Audio Assets Library
 
 A curated digital repository of high-fidelity ambient soundscapes, background musical compositions, and creative audio assets developed for multimedia projects, interactive applications, games, and research environments.
 
 ---
 
-## 🎼 Audio Catalog
+## Audio Catalog
 
 The repository contains curated ambient soundtracks organized by mood, tempo, and instrumentation:
 
@@ -17,7 +14,7 @@ The repository contains curated ambient soundtracks organized by mood, tempo, an
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── BG MUSIC 1.mp3 - BG MUSIC 5.mp3  # Core atmospheric tracks
@@ -27,6 +24,6 @@ The repository contains curated ambient soundtracks organized by mood, tempo, an
 
 ---
 
-## 📄 Usage & License
+## Usage & License
 
 Assets in this repository are available for creative and research usage. See individual track metadata for specific licensing attribution guidelines.
